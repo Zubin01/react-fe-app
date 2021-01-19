@@ -1,9 +1,9 @@
 import './App.css';
-// import {Welcome} from './components/WelcomeComponent'
+import {Welcome} from './components/WelcomeComponent'
 
-const Welcome = (props) => (
-    <div><h1>Hello, {props.name}</h1></div>
-);
+// const Welcome = (props) => (
+//     <div><h1>Hello, {props.name}</h1></div>
+// );
 
 function App() {
     return (
